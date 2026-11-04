@@ -1,0 +1,6 @@
+## V8 - 04/11/2026
+- Thay đổi: 
+  - Sắp xếp lại cấu trúc thư mục repository và thêm khung tài liệu[cite: 4].
+  - Thêm tệp nhật ký `CHANGELOG.md` và cập nhật các tệp log AI[cite: 4, 12].
+  - Tạo và hoàn thiện tệp `README.md` theo chuẩn mẫu yêu cầu (bao gồm thông tin sản phẩm, link demo và hướng dẫn các bước mở)[cite: 12].
+- Chưa kiểm tra: Hiển thị giao diện trên thiết bị iPhone[cite: 14].
