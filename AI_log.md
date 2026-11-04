@@ -8,7 +8,7 @@
 - Mã sinh viên – Lớp: [ CNTT 20-02 ]
 - Ngày thực hiện: [ 30/10/2026 ]
 - Link repository: [ (https://github.com/discorsmemaybeo-maker/K20_Fortfolio_CNTT20-02.git) ]
-- URL website: [ (https://discorsmemaybeo-maker.github.io/K20_Fortfolio_CNTT20-02/) ]
+- URL website: [ (https://discorsmemaybeo-maker.github.io/K20_Fortfolio_CNTT20-02-main/) ]
 - Tình huống: [x] Website của tôi  [] Repo luyện của giảng viên
 
 ## 1. Nhận định của tôi trước khi hỏi AI
