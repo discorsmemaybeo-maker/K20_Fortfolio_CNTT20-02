@@ -1,0 +1,2 @@
+04/11 | Viết mục Cách mở và README.md | AI gợi ý mẫu thông tin README, cấu trúc Git và hướng dẫn thao tác lệnh | Em giữ nguyên cấu trúc mẫu và điều chỉnh lại link demo cho phù hợp với repository của mình.
+04/11 | Hoàn thành Evidence Index và lưu ảnh minh chứng | AI hướng dẫn các bước tạo thư mục evidence và cách ghi kết quả kiểm thử | Em làm theo các bước hướng dẫn để lưu ảnh 01-pages.png và cập nhật tệp evidence-index.md thành công.
